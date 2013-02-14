@@ -2,13 +2,13 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          6.6.3
+Version:          6.7
 Release:          1
 Summary:          Tools for spatial data
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/%{packname}_%{version}.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/fields_6.7.tar.gz
 Requires:         R-methods R-spam 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-methods R-spam
 
