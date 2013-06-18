@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          6.7
-Release:          1
+Release:          2
 Summary:          Tools for spatial data
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
